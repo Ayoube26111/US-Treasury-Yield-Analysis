@@ -1,6 +1,6 @@
 # US-Treasury-Yield-Analysis
 
-**Author:** Your Name  
+**Author:** Ayoub Elfilali  
 **Date:** 2026-03-15  
 
 ---
